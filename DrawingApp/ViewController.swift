@@ -9,9 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-//added a comment
-    //another comment?
-    
+//added a comment    
     
     
     override func viewDidLoad() {
